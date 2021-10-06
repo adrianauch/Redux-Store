@@ -6,6 +6,7 @@ import { idbPromise } from "../../utils/helpers";
 import { useDispatch, useSelector } from "react-redux";
 
 const CartItem = ({ item }) => {
+  // use redux here
   const state = useSelector((state) => {
     return state;
   });
