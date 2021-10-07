@@ -2,7 +2,7 @@
 
 Application is deployed links:
 
-Heroku:
+Heroku: https://sleepy-bastion-50361.herokuapp.com/
 Github:
 
 ## Description:
