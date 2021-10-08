@@ -3,7 +3,7 @@
 Application is deployed links:
 
 Heroku: https://sleepy-bastion-50361.herokuapp.com/
-Github:
+Github:https://adrianauch.github.io/Redux-Store/
 
 ## Description:
 
